@@ -1,0 +1,6 @@
+body {background: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrrWpuhnUzUK_QUMrLvOiPjN_CFZxe9Td6XYJlubVYi2A4x7aNeSW2IYs&s=10") ;}
+{text-shadow: 2px 2px 4px rgba(0,0,0,0.5); color: darkviolet}
+img {border-radius: 50%}
+{transition: transform 0.3s ease, box-shadow 0.3s ease;}
+img:hover {transform: scale(1.03);}
+{box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5); }
